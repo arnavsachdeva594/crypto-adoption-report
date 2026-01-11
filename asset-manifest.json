@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/crypto-adoption-report/static/js/main.b2637725.js",
+    "index.html": "/crypto-adoption-report/index.html",
+    "main.b2637725.js.map": "/crypto-adoption-report/static/js/main.b2637725.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b2637725.js"
+  ]
+}
